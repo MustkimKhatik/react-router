@@ -20,7 +20,7 @@ function Shop() {
   return (
     <div>
       {
-        <h1>{items.fact}</h1>        
+        <h1>{items}</h1>        
       }
     </div>
   )
